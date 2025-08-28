@@ -24,3 +24,4 @@ tabla_frecuencias = pd.DataFrame({
 
 # Mostrar la tabla
 print(tabla_frecuencias)
+print("\n")
